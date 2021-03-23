@@ -240,7 +240,7 @@ To do this, the script scraped an online source that has raid information, check
 
 **Renaissance Engineering Programme (REP)** | NTU, Singapore | 2014 - 2018
 
-
+<br>
 
 **MOOCs** :computer:
 
