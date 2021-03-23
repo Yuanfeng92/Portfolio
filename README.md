@@ -13,6 +13,8 @@ If you will like to get in touch with me, you can contact me via [email](mailto:
 - [Skills & Education](#Skills-and-Education)
 - [Pet Project](#Pet-Project)
 
+
+
 ---
 
 ## Data Science Projects
@@ -42,7 +44,7 @@ College Board should target states that does not have high ACT participation rat
 
 **Key Libraries**
 
-```python
+```
 Numpy, pandas, Matplotlib, Seaborn
 ```
 
@@ -80,7 +82,7 @@ Aside from the analysis, using a selected number of features, a model was create
 
 **Key Libraries** 
 
-```python
+```
 scikit-learn: impute, preprocessing, model_selection (GridSearchCV, RandomizedSearchCV), linear_model (LinearRegression, Ridge, Lasso, ElasticNet)
 ```
 
@@ -119,7 +121,7 @@ From the above, it is evident that the dadjokes and antijokes use very similar (
 **Key Libraries**
 
 ```
-requests, time, glob, regex, wordcloud, nltk, scikit-learn: metrics (confusion_matrix, f1_score, recall_score, precision_score), feature_extraction.text (CountVectorizer, TfidfVectorizer), LogisticRegression, KNeighborsClassifier, MultinomialNB, RandomForestClassifier, 
+requests, time, glob, regex, wordcloud, nltk, scikit-learn: metrics (confusion_matrix, f1_score, recall_score, precision_score), feature_extraction.text (CountVectorizer, TfidfVectorizer), LogisticRegression, KNeighborsClassifier, MultinomialNB, RandomForestClassifier
 ```
 
 
@@ -148,11 +150,13 @@ A cost benefit analysis was conducted. The preliminary socio-economic cost estim
 
 **Key Libraries** 
 
-```python
+```
 scikit-learn, imblearn (SMOTE, SMOTETomek, make_pipeline), xgboost, tensorflow (KerasClassifier, optimizers, Sequential, Dense, Dropout, EarlyStopping)
 ```
 
 *This is done as a group project as 4, data science techniques and libraries used are for the areas that I have covered.
+
+
 
 
 
@@ -184,11 +188,15 @@ For this project, I have also trained multiple models to create a sentiment anal
 
 **Key Libraries** 
 
-```Python
+```
 app_store_scraper, google_play_scraper, nltk: tokenize, corpus, stem, SpaCy, Gensim: models (LdaModel, CoherenceModel), wordcloud, scikit-learn, tensorflow/keras (Sequential, LSTM, Tokenizer, pad_sequence, Embedding)
 ```
 
 
+
+
+
+---
 
 ## Other Projects 
 
@@ -210,6 +218,8 @@ For now, I am mainly using HackerRank as a platform for daily SQL practise.
 
 
 
+
+
 ---
 
 ## Pet Project
@@ -221,6 +231,10 @@ I used to play a decent amount of PokemonGo with my family and friends. In Pokem
 To do this, the script scraped an online source that has raid information, checked for whether there is raid in a number of pre-determined locations and if there is a raid available, it sent an alert 30 mins and 5 mins before the raid. No more missed raids! :laughing:
 
 
+
+
+
+---
 
 ## Skills and Education 
 
