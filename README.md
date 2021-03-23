@@ -120,7 +120,7 @@ requests, time, glob, regex, wordcloud, nltk, scikit-learn: metrics (confusion_m
 
 
 ### 4. [West Nile Virus Analysis and Prediction](https://github.com/Yuanfeng92/West-Nile-Virus-Analysis)
-<img src="Visualizations\West Nile Virus Spray Cluster.png" alt="West Nile Virus Spray Cluster" style="zoom:50%;" />
+<img src="Visualizations\West Nile Virus Spray Cluster.png" alt="West Nile Virus Spray Cluster" style="zoom:40%;" />
 
 **Problem Statement**
 
@@ -189,13 +189,7 @@ app_store_scraper, google_play_scraper, nltk: tokenize, corpus, stem, SpaCy, Gen
 
 ### 1. Tableau Public
 
-[<img align="left" src="Visualizations\Tableau Logo 300.png" alt="Tableau" />](https://public.tableau.com/profile/yuanfeng5611#!/)
-
-
-
-
-
-
+[<img src="Visualizations\Tableau Logo 300.png" alt="Tableau" />](https://public.tableau.com/profile/yuanfeng5611#!/)
 
 This is my Tableau Public profile. I try to practise making new Tableau dashboard once a week. I love the social data project [#MakeoverMonday](https://www.makeovermonday.co.uk/). I was able to learn many Tableau techniques from them and aim to attempt their weekly challenges!
 
@@ -203,13 +197,7 @@ This is my Tableau Public profile. I try to practise making new Tableau dashboar
 
 ### 2. HackerRank 
 
-[<img align="left" src="Visualizations\HackerRank Logo 300.png" alt="HackerRank" />](https://www.hackerrank.com/yuanfeng92)
-
-
-
-
-
-
+[<img src="Visualizations\HackerRank Logo 300.png" alt="HackerRank" />](https://www.hackerrank.com/yuanfeng92)
 
 For now, I am mainly using HackerRank as a platform for daily SQL practise.
 
