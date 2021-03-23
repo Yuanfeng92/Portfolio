@@ -85,7 +85,7 @@ scikit-learn: impute, preprocessing, model_selection (GridSearchCV, RandomizedSe
 
 ### 3. [Reddit Classification - r/Dadjokes vs r/Antijokes](https://github.com/Yuanfeng92/Classification-of-Dadjokes-and-Antijokes)
 
-<img src="Visualizations\Dadjokes VS Antijokes Top Bigram.png" alt="Dadjokes VS Antijokes Top Bigram"/>
+<img align = "center" src="Visualizations\Dadjokes VS Antijokes Top Bigram.png" alt="Dadjokes VS Antijokes Top Bigram"/>
 
 **Problem Statement**
 
@@ -119,7 +119,7 @@ requests, time, glob, regex, wordcloud, nltk, scikit-learn: metrics (confusion_m
 <br>
 
 ### 4. [West Nile Virus Analysis and Prediction](https://github.com/Yuanfeng92/West-Nile-Virus-Analysis)
-<img src="Visualizations\West Nile Virus Spray Cluster.png" alt="West Nile Virus Spray Cluster" style="zoom:50%;" />
+<img align = "center" src="Visualizations\West Nile Virus Spray Cluster.png" alt="West Nile Virus Spray Cluster"/>
 
 **Problem Statement**
 
@@ -149,7 +149,7 @@ scikit-learn, imblearn (SMOTE, SMOTETomek, make_pipeline), xgboost, tensorflow (
 <br>
 
 ### 5. [Analysis of Genshin Impact Reviews (Sentiment Analysis and Topic Extraction)](https://github.com/Yuanfeng92/Analysis-of-Genshin-Impact-Reviews)
-<img src="Visualizations\Genshin Impact Reviews Trend Analysis.png" alt="Genshin Impact Reviews Trend Analysis" style="zoom: 50%;" />
+<img align = "center" src="Visualizations\Genshin Impact Reviews Trend Analysis.png" alt="Genshin Impact Reviews Trend Analysis">
 
 **Problem Statement**
 
