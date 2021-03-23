@@ -85,7 +85,7 @@ scikit-learn: impute, preprocessing, model_selection (GridSearchCV, RandomizedSe
 
 ### 3. [Reddit Classification - r/Dadjokes vs r/Antijokes](https://github.com/Yuanfeng92/Classification-of-Dadjokes-and-Antijokes)
 
-<img src="Visualizations\Dadjokes VS Antijokes Top Bigram.png" alt="Dadjokes VS Antijokes Top Bigram" style="zoom:50%;" />
+<img src="Visualizations\Dadjokes VS Antijokes Top Bigram.png" alt="Dadjokes VS Antijokes Top Bigram"/>
 
 **Problem Statement**
 
