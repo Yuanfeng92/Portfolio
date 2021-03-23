@@ -13,8 +13,6 @@ If you will like to get in touch with me, you can contact me via [email](mailto:
 - [Skills & Education](#Skills-and-Education)
 - [Pet Project](#Pet-Project)
 
-
-
 ---
 
 ## Data Science Projects
@@ -47,10 +45,7 @@ College Board should target states that does not have high ACT participation rat
 ```
 Numpy, pandas, Matplotlib, Seaborn
 ```
-
-
-
-
+<br>
 
 ### 2. [Ames Housing Price Prediction](https://github.com/Yuanfeng92/Price-Prediction-and-Study-of-Ames-Housing-Data)
 
@@ -86,9 +81,7 @@ Aside from the analysis, using a selected number of features, a model was create
 scikit-learn: impute, preprocessing, model_selection (GridSearchCV, RandomizedSearchCV), linear_model (LinearRegression, Ridge, Lasso, ElasticNet)
 ```
 
-
-
-
+<br>
 
 ### 3. [Reddit Classification - r/Dadjokes vs r/Antijokes](https://github.com/Yuanfeng92/Classification-of-Dadjokes-and-Antijokes)
 
@@ -123,10 +116,7 @@ From the above, it is evident that the dadjokes and antijokes use very similar (
 ```
 requests, time, glob, regex, wordcloud, nltk, scikit-learn: metrics (confusion_matrix, f1_score, recall_score, precision_score), feature_extraction.text (CountVectorizer, TfidfVectorizer), LogisticRegression, KNeighborsClassifier, MultinomialNB, RandomForestClassifier
 ```
-
-
-
-
+<br>
 
 ### 4. [West Nile Virus Analysis and Prediction](https://github.com/Yuanfeng92/West-Nile-Virus-Analysis)
 <img src="Visualizations\West Nile Virus Spray Cluster.png" alt="West Nile Virus Spray Cluster" style="zoom:50%;" />
@@ -156,9 +146,7 @@ scikit-learn, imblearn (SMOTE, SMOTETomek, make_pipeline), xgboost, tensorflow (
 
 *This is done as a group project as 4, data science techniques and libraries used are for the areas that I have covered.
 
-
-
-
+<br>
 
 ### 5. [Analysis of Genshin Impact Reviews (Sentiment Analysis and Topic Extraction)](https://github.com/Yuanfeng92/Analysis-of-Genshin-Impact-Reviews)
 <img src="Visualizations\Genshin Impact Reviews Trend Analysis.png" alt="Genshin Impact Reviews Trend Analysis" style="zoom: 50%;" />
@@ -192,9 +180,7 @@ For this project, I have also trained multiple models to create a sentiment anal
 app_store_scraper, google_play_scraper, nltk: tokenize, corpus, stem, SpaCy, Gensim: models (LdaModel, CoherenceModel), wordcloud, scikit-learn, tensorflow/keras (Sequential, LSTM, Tokenizer, pad_sequence, Embedding)
 ```
 
-
-
-
+<br>
 
 ---
 
@@ -216,9 +202,7 @@ This is my Tableau Public profile. I try to practise making new Tableau dashboar
 
 For now, I am mainly using HackerRank as a platform for daily SQL practise.
 
-
-
-
+<br>
 
 ---
 
@@ -230,9 +214,7 @@ I used to play a decent amount of PokemonGo with my family and friends. In Pokem
 
 To do this, the script scraped an online source that has raid information, checked for whether there is raid in a number of pre-determined locations and if there is a raid available, it sent an alert 30 mins and 5 mins before the raid. No more missed raids! :laughing:
 
-
-
-
+<br>
 
 ---
 
