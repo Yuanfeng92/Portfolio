@@ -85,7 +85,7 @@ scikit-learn: impute, preprocessing, model_selection (GridSearchCV, RandomizedSe
 
 
 ### 3. [Reddit Classification - r/Dadjokes vs r/Antijokes](https://github.com/Yuanfeng92/Classification-of-Dadjokes-and-Antijokes)
-<img src="I:\A - Data Science\A - Personal Projects\My Portfolio\Visualizations\Dadjokes VS Antijokes Top Bigram.png" alt="Dadjokes VS Antijokes Top Bigram" style="zoom: 50%;" />
+<img src="Visualizations\Dadjokes VS Antijokes Top Bigram.png" alt="Dadjokes VS Antijokes Top Bigram" style="zoom: 50%;" />
 
 **Problem Statement**
 
@@ -120,7 +120,7 @@ requests, time, glob, regex, wordcloud, nltk, scikit-learn: metrics (confusion_m
 
 
 ### 4. [West Nile Virus Analysis and Prediction](https://github.com/Yuanfeng92/West-Nile-Virus-Analysis)
-<img src="I:\A - Data Science\A - Personal Projects\My Portfolio\Visualizations\West Nile Virus Spray Cluster.png" alt="West Nile Virus Spray Cluster" style="zoom:50%;" />
+<img src="Visualizations\West Nile Virus Spray Cluster.png" alt="West Nile Virus Spray Cluster" style="zoom:50%;" />
 
 **Problem Statement**
 
@@ -150,7 +150,7 @@ scikit-learn, imblearn (SMOTE, SMOTETomek, make_pipeline), xgboost, tensorflow (
 
 
 ### 5. [Analysis of Genshin Impact Reviews (Sentiment Analysis and Topic Extraction)](https://github.com/Yuanfeng92/Analysis-of-Genshin-Impact-Reviews)
-<img src="I:\A - Data Science\A - Personal Projects\My Portfolio\Visualizations\Genshin Impact Reviews Trend Analysis.png" alt="Genshin Impact Reviews Trend Analysis" style="zoom:50%;" />
+<img src="Visualizations\Genshin Impact Reviews Trend Analysis.png" alt="Genshin Impact Reviews Trend Analysis" style="zoom:50%;" />
 
 **Problem Statement**
 
@@ -185,9 +185,13 @@ app_store_scraper, google_play_scraper, nltk: tokenize, corpus, stem, SpaCy, Gen
 
 ## Other Projects 
 
+(click on the logos to visit my profiles!)
+
 ### 1. Tableau Public
 
 [<img align="left" src="Visualizations\Tableau Logo 300.png" alt="Tableau" />](https://public.tableau.com/profile/yuanfeng5611#!/)
+
+
 
 
 
@@ -200,6 +204,8 @@ This is my Tableau Public profile. I try to practise making new Tableau dashboar
 ### 2. HackerRank 
 
 [<img align="left" src="Visualizations\HackerRank Logo 300.png" alt="HackerRank" />](https://www.hackerrank.com/yuanfeng92)
+
+
 
 
 
